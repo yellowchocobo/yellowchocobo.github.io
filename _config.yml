@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter nilscp
 facebook:
   username               :
   app_id                 :
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Dr. Nils C. Prieur"
   avatar           : "profile.png"
-  bio              : "Scientific software engineer at S[&]T Norway"
+  bio              : "Scientific software engineer"
   location         : "Oslo, Norway"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "S[&]T Norway"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=IsEoI2MAAAAJ&hl=en&oi=ao"
   email            : "prieur.nils@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
