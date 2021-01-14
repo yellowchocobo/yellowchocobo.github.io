@@ -1,7 +1,7 @@
 ---
 title: "The self-secondary crater population of the Hokusai crater on Mercury."
 collection: publications
-permalink: 
+permalink: /publication/2016-01-01-paper-title-number-1
 excerpt: 'Whether or not self‐secondaries dominate small crater populations on continuous ejecta deposits and floors of 
 fresh impact craters has long been a controversy. This issue potentially affects the age determination technique using 
 crater statistics. Here the self‐secondary crater population on the continuous ejecta deposits of the Hokusai crater on 
