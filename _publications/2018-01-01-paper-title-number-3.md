@@ -1,10 +1,8 @@
 ---
-title: "Formation of simple impact craters in layered targets: Implications for lunar crater morphology and regolith 
-thickness."
+title: "Formation of simple impact craters in layered targets: Implications for lunar crater morphology and regolith thickness."
 collection: publications 
 permalink: /publication/2018-01-01-paper-title-number-3 
-excerpt: 'Impact crater morphologies
-vary significantly across the lunar maria. Craters with diameter less than 400 m are closely related to variations in
+excerpt: 'Impact crater morphologies vary significantly across the lunar maria. Craters with diameter less than 400 m are closely related to variations in
 target properties (rock strength, porosity, and layering) as well as the impact velocity. Here we investigate target and
 impact conditions feasible for reproducing crater morphologies, such as normal, central‐mound, flat‐bottomed, and
 concentric craters, using numerical models of impact crater formation in two‐layer targets under lunar conditions (i.e.,
