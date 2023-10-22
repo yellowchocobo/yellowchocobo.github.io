@@ -22,12 +22,18 @@ Machine and deep learning applied to remote sensing
 ------
 Since 2019/2020 I have been working in AI solutions applied to remote sensing. This is something I am very interested with which combines the multidisciplinary skills I have gathered over the years (remote sensing, programming, GIS, hydrology, physical geography, geohazards). Among others, I am currently training a deep learning algorithm to automatically detect boulders (rock fragments) on planetary surfaces (see Projects). During my time as software engineer at Science & Technology AS Norway, I have been involved in the automatic detection of the pine wilt disease from Sentinel-2 spacecraft imagery (a tree disease currently spreading all over Europe and North America) and the training of semantic segmentation algorithm to automatically detect land use changes in Norway and other European countries.  
 
-- Add a gif file showing 
+![Automatic detection of boulders](/images/AnimationS1_Earth.gif)
+
+*Caption: Example of automatic detection of boulders with the BoulderNet algorithm (see BOULDERING) at terrestrial locations.*
 
 Impact cratering
 ------
 
 A large part of my researcher career has focus on the study of the formation of impact craters. I have investigated the formation of impact craters with the help of impact numerical models. Among others, I investigated the influence of target properties on crater dimensions, and derived scaling laws so that a relationship between the projectile properties 
+
+![Terrestrial boulder fields (planetary analogs)](/images/M117792992L_thumb.png)
+
+*Caption: Fresh and degraded craters in Oceanus Procellarum, near the crater Flamsteed P. Illumination is from left side of the image, incidence angle is 78°, width is 1400 m [NASA/GSFC/Arizona State University].*
 
 
 Land surface processes on planetary surfaces
@@ -39,5 +45,7 @@ However, in general, I am interested in the study of all land surface processes.
 Both groups I have been part of, The Earth and Beyond group at the Centre of Earth Evolution and Dynamics (Oslo, Norway) and the Earth and Planetary Surface Processes (Stanford, US)
 
 ![Terrestrial boulder fields (planetary analogs)](/images/Figure1.png)
+
+*Caption: Comparison of terrestrial locations (a-b, d-e, g-h) with their planetary analogs (c, f, i)*
 
 You can download my CV ![here](https://github.com/academicpages/academicpages.github.io).
