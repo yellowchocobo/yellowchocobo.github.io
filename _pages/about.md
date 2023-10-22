@@ -14,7 +14,7 @@ Hi, my name is Nils. I am currently a researcher at Stanford University and the 
 
 I earned my Ph.D. in Planetary Sciences in 2018 at the Centre for Earth Evolution and Dynamics (CEED) at the University of Oslo, under the supervision Prof. Stephanie Werner and Dr. Tobias Rolf in the Earth and Beyond lab, and Prof. Kaï Wünnemann at the Natural History Museum of Berlin. My Ph.D focused on numerical impact crater modeling and the investigation of the effect of different target properties on the diameter of craters. I subsequently did a postdoctoral researcher position in the same lab, where I continued to work on the same project but shifted my focus towards the observations of impact craters with the help of remote sensing. Earlier in my career I  worked outside of academia as a civil engineer and hydrologist in different Norwegian companies based in Oslo (Norway). Over the last few years, I have changed a little bit focus, and I am now working more as a computer scientist,  specifically in the use of deep learning to extract patterns of interest from satellite imagery.  
 
-If you are interested in learning more about my background, and the journey I have taken please download my CV [here](https://github.com/yellowchocobo/yellowchocobo.github.io/files/paper1.pdf).
+If you are interested in learning more about my background, and the journey I have taken please download my CV [here](https://github.com/yellowchocobo/yellowchocobo.github.io/tree/master/files/paper1.pdf).
 
 Research interest
 ======
