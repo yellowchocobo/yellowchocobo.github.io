@@ -45,3 +45,6 @@ Both groups I have been part of, The Earth and Beyond group at the Centre of Ear
 ![Terrestrial boulder fields (planetary analogs)](/images/Figure1.png)
 
 *Caption: Comparison of terrestrial locations (a-b, d-e, g-h) with their planetary analogs (c, f, i)*
+
+## News
+- Oct 2023: Test
