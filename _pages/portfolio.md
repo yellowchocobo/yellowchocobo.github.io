@@ -1,14 +1,8 @@
 ---
 permalink: /projects/
-title: "Projects"
+title: "Current Projects"
 author_profile: true
-redirect_from:
-  - /projects/
-  - /projects.html
 ---
-
-# Projects
-## Is this working out?
 
 ## BOULDERING (Oct 2021 – Oct 2024)
 Summary
