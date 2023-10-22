@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Nils C. Prieur"
 title_separator          : "-"
 name                     : &name "Dr. Nils C. Prieur"
-description              : &description "Scientific Software Engineer at S[&]T Norway"
+description              : &description "Researcher at Stanford University and the University of Oslo"
 url                      : https://yellowchocobo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yellowchocobo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Nils C. Prieur"
   avatar           : "nilscp_webpicture.jpg"
-  bio              : "Scientific software engineer"
+  bio              : "Planetary scientist"
   location         : "Oslo, Norway"
   employer         : "S&T Norway"
   pubmed           :
