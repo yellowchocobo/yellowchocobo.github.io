@@ -31,3 +31,13 @@ NOK = Norwegian Krone
 
 University of Santa Cruz (2022); Center for Earth Evolution and Dynamics (2021);  Department of Geosciences, University of Oslo (2020). Natural Museum of History of Berlin (2019). Center for Earth Evolution and Dynamics (2018). Norwegian Water Energy and Resources Directorate (2012).
 
+# Outreach activities
+
+During my PhD and postdocs at the University of Oslo and Stanford University, I spent about 1–2 weeks a year conducting outreach activities. Here is an example list of activities:
+
+- Science fair of Oslo, Forskningstorget (two times).
+- Live coverage of Insight’s landing at the “Astronomy on Tap” event (Oslo, Norway).
+- Contributed to articles about my own research in online newspapers (see forskning.no and uniforum.uio.no)
+- Collaborated with a Sandvika (Oslo, Norway) high school on planetary science-related projects.
+- Participated as a mentor in the Sustainability Undergraduate Research in Geoscience and Engineering (SURGE) Program. More information can be found here. 
+
