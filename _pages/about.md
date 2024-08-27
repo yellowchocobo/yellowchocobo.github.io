@@ -27,7 +27,7 @@ Since 2019/2020 I have been working in AI solutions applied to remote sensing. T
 Impact cratering
 ------
 
-A large part of my researcher career has focus on the study of the formation of impact craters. I have investigated the formation of impact craters with the help of impact numerical models. Among others, I investigated the influence of target properties on crater dimensions, and derived scaling laws so that a relationship between the projectile properties 
+A large part of my research career has focused on the study of the formation of impact craters. I have investigated the formation of impact craters with the help of impact numerical models. Among others, I investigated the influence of target properties on crater dimensions, and derived scaling laws so that a relationship between the projectile properties 
 
 ![Terrestrial boulder fields (planetary analogs)](/images/M117792992L_thumb.png)
 
@@ -36,11 +36,13 @@ A large part of my researcher career has focus on the study of the formation of 
 
 Land surface processes on planetary surfaces
 ------
-However, in general, I am interested in the study of all land surface processes. During my education,  
+However, in general, I am interested in the study of all land surface processes. By studying land surface processes—such as erosion, sediment transport, tectonic and fluvial activities, and the resulting landscapes—we can unravel the histories of planets and moons across our solar system. Satellite imagery is crucial in this exploration, offering a bird's-eye view of these dynamic landscapes. Through the analysis of high-resolution satellite data, we can identify surface features, track changes over time, compare these observations with terrestrial analogs, and thus allow us to better understand how they form. 
+
+To study surface features from imagery, I am using the programming language Python. Over the years, I have become fluent in the use of many modules (e.g., pandas, geopandas, rasterio, shapely, scikit-image, sklearn, pytorch), which allows for an in-depth analysis of imagery (e.g., satellite, plane, drone) and the manipulation of vector and raster data. 
 
 ## Comparative planetology
 
-Both groups I have been part of, The Earth and Beyond group at the Centre of Earth Evolution and Dynamics (Oslo, Norway) and the Earth and Planetary Surface Processes (Stanford, US)
+Both groups I have been part of, The Earth and Beyond group at the Centre of Earth Evolution and Dynamics (Oslo, Norway) and the Earth and Planetary Surface Processes (Stanford, US) have comparative planetology as a focus. Comparative planetology is a powerful tool for understanding both extraterrestrial and terrestrial environments. By studying surface features on other planets, such as craters, valleys, and dunes, we gain insights into similar processes on Earth. Observing how these features form and evolve under different conditions allows us to refine our models of Earth's geological processes. Conversely, our knowledge of Earth's landscapes provides a valuable reference point for interpreting the features we observe on other planets. This back-and-forth learning not only deepens our understanding of the solar system but also enhances our ability to predict and manage changes in our environment.
 
 ![Terrestrial boulder fields (planetary analogs)](/images/Figure1.png)
 
