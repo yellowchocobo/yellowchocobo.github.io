@@ -28,19 +28,16 @@ author_profile: true
 
 - [Weakly-Supervised Learning in Computer Vision](https://hbilen.github.io/wsl-eccv20.github.io/)
 
-### Awesome pages
-
-**"Awesome" lists about deep learning:**
-
-- [Awesome image classification](https://github.com/weiaicunzai/awesome-image-classification)
-
-- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
-- [Awesome deep vision](https://github.com/kjw0612/awesome-deep-vision)
-- [Awesome satellite image deep learning](https://github.com/robmarkcole/satellite-image-deep-learning)
-
 ### Tools
 
 - TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming (focusing on more traditional ML methods). [TPOT's GitHub](http://epistasislab.github.io/tpot/)
+
+## Awesome pages
+
+- [Awesome image classification](https://github.com/weiaicunzai/awesome-image-classification)
+- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
+- [Awesome deep vision](https://github.com/kjw0612/awesome-deep-vision)
+- [Awesome satellite image deep learning](https://github.com/robmarkcole/satellite-image-deep-learning)
 
 ## Python
 
