@@ -8,13 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+## News
+- Nov 2024: Started a new job as Machine Learning Spesialist/Engineer at [Field Geospatial Norway](https://fieldgeo.com/no/) 
+- Nov 2024: Wrapping up the three last years of my Marie-Curie postdoc into a final report.   
+- Oct 2024: Writing second manuscript in the BOULDERING project. 
+- Apr 2024: Paternity leave starts. Back at work in end of August. 
+
+------
+
 Hi, my name is Nils. I am currently a researcher at Stanford University and the University of Oslo via a Marie Skłodowska-Curie Global fellowship funded by the European Union (end of project October 2024). My research focuses on studying features (such as impact craters and boulders) on planetary surfaces with the help of AI/Machine Learning. I do that to understand better the formation mechanisms of processes shaping the surfaces of planetary bodies and get a better insight into their geological histories and evolution. As millions of craters, boulders, and other features can be found on planets, moons, and asteroids, I use satellite pictures, QGIS, and deep learning to automatically detect surface processes on planetary bodies. For example, in the BOULDERING project, I use an instance segmentation Convolutional Neural Network to automatically detect boulders in the near vicinity of lunar impact structures. The spatial distributions of automatically detected boulders help me take a step towards unraveling the physics behind the ejection impact crater mechanisms. 
 
 # Background
 
 I earned my Ph.D. in Planetary Sciences in 2018 at the Centre for Earth Evolution and Dynamics (CEED) at the University of Oslo, under the supervision Prof. Stephanie Werner and Dr. Tobias Rolf in the Earth and Beyond lab, and Prof. Kaï Wünnemann at the Natural History Museum of Berlin. My Ph.D focused on numerical impact crater modeling and the investigation of the effect of different target properties on the diameter of craters. I subsequently did a postdoctoral researcher position in the same lab, where I continued to work on the same project but shifted my focus towards the observations of impact craters with the help of remote sensing. Earlier in my career I  worked outside of academia as a civil engineer and hydrologist in different Norwegian companies based in Oslo (Norway). Over the last few years, I have changed a little bit focus, and I am now working more as a computer scientist,  specifically in the use of deep learning to extract patterns of interest from satellite imagery.  
 
-If you are interested in learning more about my background, and the journey I have taken please download my CV [here](https://github.com/yellowchocobo/yellowchocobo.github.io/tree/master/files/paper1.pdf).
+If you are interested in learning more about my background, and the journey I have taken please download my CV [here](https://github.com/yellowchocobo/yellowchocobo.github.io/tree/master/files/Prieur_CV.pdf).
 
 Research interest
 ======
@@ -47,6 +55,3 @@ Both groups I have been part of, The Earth and Beyond group at the Centre of Ear
 ![Terrestrial boulder fields (planetary analogs)](/images/Figure1.png)
 
 *Caption: Comparison of terrestrial locations (a-b, d-e, g-h) with their planetary analogs (c, f, i)*
-
-## News
-- Oct 2023: Test
