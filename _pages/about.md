@@ -50,6 +50,7 @@ Both groups I have been part of, The Earth and Beyond group at the Centre of Ear
 
 Latest News
 ------
+- Nov 2024: Working on the automatic detection of palsas bog in Norway. 
 - Nov 2024: Started a new job as Machine Learning Spesialist/Engineer at [Field Geospatial Norway](https://fieldgeo.com/no/) 
 - Nov 2024: Wrapping up the three last years of my Marie-Curie postdoc into a final report.   
 - Oct 2024: Writing second manuscript in the BOULDERING project. 
