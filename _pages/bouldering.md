@@ -4,9 +4,11 @@ title: "BOULDERING"
 author_profile: true
 ---
 
-You may wonder why I have a tab about BOULDERING on my website. While it is a popular activity, I am actually referring to my Marie Skłodowska-Curie Global fellowship funded by the European Union granted by the European Research Council. <ChatGPT please add a sentence here about what is a Marie Curie global fellowship and how it gives opportunity for young researcher>.  
+You may wonder why I have a tab about BOULDERING on my website. While it is a popular activity, I am actually referring to my Marie Skłodowska-Curie Global Fellowship, funded by the European Union and granted by the European Research Council. This prestigious fellowship provides a unique opportunity for young researchers to gain international experience, develop cutting-edge skills, and expand their networks by working in world-class institutions across the globe.
 
-First of all, I would like to thank the European Research Council (and all Europeans) for the support during this three year of my career. This allows me to learn many new skills and to travel to the US, which is the mecca of planetary science. 
+First of all, I would like to thank the European Research Council (and all Europeans!) for supporting these three pivotal years of my career. The fellowship allowed me to acquire new skills, conduct exciting research, and travel to the US—the mecca of planetary science. I cannot emphasize enough how grateful I am for this opportunity. I acknowledge the support of the European Commission (101030364) and the Research Council of Norway (328597) through the MSCA-2020 Individual Global Fellowship, hosted at Stanford University and the University of Oslo. This work was further supported by the Research Council of Norway through its Centres of Excellence scheme, project numbers 223272 (CEED) and 332523 (PHAB).
+
+Secondly, I’d like to express my deepest gratitude to Associate Professor Mathieu Lapotre, who leads the Earth & Planetary Surface Processes group at Stanford. Mathieu provided me with a unique opportunity to join his vibrant and inspiring group and was a constant source of kindness, patience, and mentorship throughout the project. His excellent advice and support made a huge difference in my research journey. I highly recommend his group to any young researchers, undergraduates, or graduate students looking for a dynamic and collaborative environment. It’s a fantastic place to work, set against the backdrop of the stunning Stanford campus.
 
 ## Project description
 **Could boulder mapping help reveal how planetary surfaces evolved?** <br>
@@ -25,18 +27,22 @@ A versatile automatic boulder detection algorithm will be developed using a conv
 - Pre-processed images and labels for use with Detectron2 and YOLOv8 [Zenodo link](https://zenodo.org/records/8171052)
 - Best trained model setups and weights for Mask R-CNN and YOLOv8. [Zenodo link](https://zenodo.org/records/8171052)
 - Collected boulder populations around young lunar and martian impact craters (2021-2024), more than two millions of boulders have been collected so far (last updated in early December 2024) [Zenodo link](https://zenodo.org/records/8171052)
+- Github repository for the manipulation of rasters [Github link]()
+- Github repository for the manipulation of vector data [Github link]()
+- Github repository for pre-processing of data, model setup and predictions with Detectron2 Mask R-CNN [Github link]()
+- Github repository for pre-processing of data, model setup and predictions with YOLOv8 [Github link]()
 
 ## Manuscripts
 See Publications. 
 
 ## Blog
-I have maintained a blog of my life experience as a Marie Skłodowska-Curie Global fellow (MSCA fellow), which you can find under the blog tab. The blog entries are a mix of reports of progress, and in general the life as MSCA fellow.     
+I have maintained a blog documenting my life experiences as a Marie Skłodowska-Curie Global Fellow (MSCA Fellow), which you can find under the Blog tab. The entries are a mix of research progress updates and reflections on life as an MSCA Fellow, offering insights into both the professional and personal journey of this unique opportunity.   
 
 ## Main results
 Main results.
 
 ## Future work 
-The trip does not end here. While I have found a job outside of academia, I would like to continue to work on this project. There are still many things that can be done to improve the model. Here are the highlights of things I would like to implement in the future:
+The journey doesn’t end here. While I have transitioned to a job outside of academia, my passion for this project remains strong, and I plan to continue working on it. There is still so much potential to improve and expand the model. Here are the highlights of what I hope to implement in the future:
 - a
 - b
 - c
