@@ -11,7 +11,6 @@ First of all, I would like to thank the European Research Council (and all Europ
 Secondly, I’d like to express my deepest gratitude to Associate Professor Mathieu Lapotre, who leads the Earth & Planetary Surface Processes group at Stanford. Mathieu provided me with a unique opportunity to join his vibrant and inspiring group and was a constant source of kindness, patience, and mentorship throughout the project. His excellent advice and support made a huge difference in my research journey. I highly recommend his group to any young researchers, undergraduates, or graduate students looking for a dynamic and collaborative environment. It’s a fantastic place to work, set against the backdrop of the stunning Stanford campus.
 
 ## Project description
-**Could boulder mapping help reveal how planetary surfaces evolved?** <br>
 Craters are very common surface features on many solid planets and moons. During an impact, rock fragments ejected from the crater cavity could be deposited elsewhere on the surface, where they could potentially form secondary craters. Boulders are the only remnants of these ejected materials. Their size and shape, as well as the terrain on which they are found, provide important insight into the ejection mechanisms. Funded by the Marie Skłodowska-Curie Actions programme, the BOULDERING project plans to use high-resolution imaging and deep learning to further investigate the size and shape distributions of boulder populations. Project results could boost our understanding of the planetary surface evolution.
 
 ## Objective 
@@ -22,15 +21,15 @@ The size and velocity distribution of the ejected rock fragments is a poorly und
 A versatile automatic boulder detection algorithm will be developed using a convolutional neural network. This algorithm will first be validated on terrestrial boulder populations in Death Valley and the Mojave Desert and will then be trained with remote sensing data for application on the lunar and martian surfaces. By following this approach, ground data collected on Earth will be used to test the algorithm’s capacity to measure the sizes and shapes of boulders, which is key to make robust inferences on the boulder population on other planetary bodies.
 
 ## Deliverables
-- Raw drone data of fieldwork conducted in the Sierra Nevada, CA, USA [Zenodo link](https://zenodo.org/records/8171052)
-- Raw input and labeled boulder data collected over the whole course of the project [Zenodo link](https://zenodo.org/records/8171052)
-- Pre-processed images and labels for use with Detectron2 and YOLOv8 [Zenodo link](https://zenodo.org/records/8171052)
-- Best trained model setups and weights for Mask R-CNN and YOLOv8. [Zenodo link](https://zenodo.org/records/8171052)
-- Collected boulder populations around young lunar and martian impact craters (2021-2024), more than two millions of boulders have been collected so far (last updated in early December 2024) [Zenodo link](https://zenodo.org/records/8171052)
-- Github repository for the manipulation of rasters [Github link]()
-- Github repository for the manipulation of vector data [Github link]()
-- Github repository for pre-processing of data, model setup and predictions with Detectron2 Mask R-CNN [Github link]()
-- Github repository for pre-processing of data, model setup and predictions with YOLOv8 [Github link]()
+- [Raw drone data of fieldwork conducted in the Sierra Nevada, CA, USA](https://zenodo.org/records/8171052)
+- [Raw input and labeled boulder data collected over the whole course of the project](https://zenodo.org/records/8171052)
+- [Pre-processed images and labels for use with Detectron2 and YOLOv8](https://zenodo.org/records/8171052)
+- [Best trained model setups and weights for Mask R-CNN and YOLOv8](https://zenodo.org/records/8171052)
+- [Collected boulder populations around young lunar and martian impact craters](https://zenodo.org/records/8171052)
+- [Github repository for the manipulation of rasters](https://github.com/astroNils/rastertools)
+- [Github repository for the manipulation of vector data](https://github.com/astroNils/shptools)
+- [Github repository for pre-processing of data, model setup and predictions with Detectron2 Mask R-CNN](https://github.com/astroNils/MLtools)
+- [Github repository for pre-processing of data, model setup and predictions with YOLOv8](https://github.com/astroNils/YOLOv8-BeyondEarth)
 
 ## Manuscripts
 See Publications. 
