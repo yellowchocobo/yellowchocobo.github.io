@@ -21,21 +21,23 @@ The size and velocity distribution of the ejected rock fragments is a poorly und
 A versatile automatic boulder detection algorithm will be developed using a convolutional neural network. This algorithm will first be validated on terrestrial boulder populations in Death Valley and the Mojave Desert and will then be trained with remote sensing data for application on the lunar and martian surfaces. By following this approach, ground data collected on Earth will be used to test the algorithm’s capacity to measure the sizes and shapes of boulders, which is key to make robust inferences on the boulder population on other planetary bodies.
 
 ## Deliverables
-- [Raw drone data of fieldwork conducted in the Sierra Nevada, CA, USA](https://zenodo.org/records/8171052)
-- [Raw input and labeled boulder data collected over the whole course of the project](https://zenodo.org/records/8171052)
-- [Pre-processed images and labels for use with Detectron2 and YOLOv8](https://zenodo.org/records/8171052)
-- [Best trained model setups and weights for Mask R-CNN and YOLOv8](https://zenodo.org/records/8171052)
-- [Collected boulder populations around young lunar and martian impact craters](https://zenodo.org/records/8171052)
-- [Github repository for the manipulation of rasters](https://github.com/astroNils/rastertools)
+- [Raw drone data of the two fieldworks conducted in the Sierra Nevada, CA, USA](https://zenodo.org/records/8171052) # TODO
+- [Raw input and labeled boulder data collected over the whole course of the project](https://zenodo.org/records/14250970) #10.5281/zenodo.14250970
+- [Pre-processed images and labels for use with Detectron2 and YOLOv8](https://zenodo.org/records/14250874) # OK
+- [Best trained model setups and weights for Mask R-CNN and YOLOv8](https://zenodo.org/records/8171052) # TODO
+- [Collected boulder populations around young lunar and martian impact craters](https://zenodo.org/records/8171052) # TODO
+- [Github repository for the manipulation of rasters](https://github.com/astroNils/rastertools) 
 - [Github repository for the manipulation of vector data](https://github.com/astroNils/shptools)
-- [Github repository for pre-processing of data, model setup and predictions with Detectron2 Mask R-CNN](https://github.com/astroNils/MLtools)
-- [Github repository for pre-processing of data, model setup and predictions with YOLOv8](https://github.com/astroNils/YOLOv8-BeyondEarth)
+- [Github repository for data processing, model setup and predictions with Detectron2 Mask R-CNN](https://github.com/astroNils/MLtools)
+- [Github repository for data processing, model setup and predictions with YOLOv8](https://github.com/astroNils/YOLOv8-BeyondEarth)
+
+Please bear in mind that I do not have a formal background in software development, so the code might be a bit messy from time to time. I believe it improved significantly over the course of the project, but there’s definitely still some untidy coding in the MLtools GitHub repository. If you’re confused or need help using this code, don’t hesitate to reach out—I’d be happy to assist!
 
 ## Manuscripts
-See Publications. 
+See Publications tab. 
 
 ## Blog
-I have maintained a blog documenting my life experiences as a Marie Skłodowska-Curie Global Fellow (MSCA Fellow), which you can find under the Blog tab. The entries are a mix of research progress updates and reflections on life as an MSCA Fellow, offering insights into both the professional and personal journey of this unique opportunity.   
+I have maintained a blog documenting my life experiences as a Marie Skłodowska-Curie Global Fellow (MSCA Fellow), which you can find under the Blog Posts tab. The entries are a mix of research progress updates and reflections on life as an MSCA Fellow, offering insights into both the professional and personal journey of this unique opportunity.   
 
 ## Main results
 Main results.
