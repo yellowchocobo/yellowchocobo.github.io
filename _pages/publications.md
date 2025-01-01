@@ -22,7 +22,7 @@ author_profile: true
 8. Xiao, Z., **Prieur, N. C.** and S.C. Werner (2016). "The self-secondary crater population of the Hokusai crater on Mercury." Geophysical Research Letters, 43, 7424–7432, [link](https://doi:10.1002/2016GL069868).
 
 
-## Abstracts related to the BOULDERING project
+## Abstracts
 
 1. **N.C. Prieur**, Z. Xiao, H. Kerner, S.C. Werner, M.G.A. Lapôtre. Systematic Analysis of Boulder Populations around Lunar Cold Spots. EPSC 2024. 
 
@@ -42,7 +42,7 @@ author_profile: true
 
 9. **N.C. Prieur**, B. Amaro, E. Gonzalez, L. Rubanenko, Z. Xiao, H. Kerner, S.C. Werner, M.G.A. Lapôtre. A Large Training Dataset of Boulder Sizes and Shapes as a First Step Towards the Automated Detection of Rock Fragments on Planetary Surfaces. Lunar and Planetary Science Conference 2022.
 
-## Projects using our boulder-detection algorithm
+## Related projects
 
 1. B. Amaro, M.G.A. Lapôtre. Automatic Characterization of the Size Distribution of Small Rocks on the Moon and Implication for Orbiter-Based Extrapolations. American Geophysical Union Fall Meeting 2024.
 

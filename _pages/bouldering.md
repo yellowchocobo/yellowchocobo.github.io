@@ -21,11 +21,11 @@ The size and velocity distribution of the ejected rock fragments is a poorly und
 A versatile automatic boulder detection algorithm will be developed using a convolutional neural network. This algorithm will first be validated on terrestrial boulder populations in Death Valley and the Mojave Desert and will then be trained with remote sensing data for application on the lunar and martian surfaces. By following this approach, ground data collected on Earth will be used to test the algorithm’s capacity to measure the sizes and shapes of boulders, which is key to make robust inferences on the boulder population on other planetary bodies.
 
 ## Deliverables
-- [Raw drone data of the two fieldworks conducted in the Sierra Nevada, CA, USA](https://zenodo.org/records/8171052) # TODO
-- [Raw input and labeled boulder data collected over the whole course of the project](https://zenodo.org/records/14250970) #10.5281/zenodo.14250970
-- [Pre-processed images and labels for use with Detectron2 and YOLOv8](https://zenodo.org/records/14250874) # OK
-- [Best trained model setups and weights for Mask R-CNN and YOLOv8](https://zenodo.org/records/8171052) # TODO
-- [Collected boulder populations around young lunar and martian impact craters](https://zenodo.org/records/8171052) # TODO
+- [Raw drone data of the two fieldworks conducted in the Sierra Nevada, CA, USA](https://zenodo.org/records/14585533)
+- [Raw input and labeled boulder data collected over the whole course of the project](https://zenodo.org/records/14250970) 
+- [Pre-processed images and labels for use with Detectron2 and YOLOv8](https://zenodo.org/records/14250874) 
+- [Code, best trained model setups and weights for YOLOv8](https://zenodo.org/records/14579518)
+- [Boulder populations around 82 fresh simple impact craters on the Moon and 15 fresh simple impact craters on Mars](https://zenodo.org/records/14253940) 
 - [Github repository for the manipulation of rasters](https://github.com/astroNils/rastertools) 
 - [Github repository for the manipulation of vector data](https://github.com/astroNils/shptools)
 - [Github repository for data processing, model setup and predictions with Detectron2 Mask R-CNN](https://github.com/astroNils/MLtools)
