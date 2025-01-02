@@ -40,13 +40,14 @@ See Publications tab.
 I have maintained a blog documenting my life experiences as a Marie Skłodowska-Curie Global Fellow (MSCA Fellow), which you can find under the Blog Posts tab. The entries are a mix of research progress updates and reflections on life as an MSCA Fellow, offering insights into both the professional and personal journey of this unique opportunity.   
 
 ## Main results
-Main results.
+The project achieved significant progress in creating a large, high-quality database of boulder populations around fresh lunar and Martian craters. This database, the first of its kind in planetary science, provides a wealth of data that will support future studies of ejection mechanisms and crater-related processes. While the comprehensive analysis of this data is still ongoing, early results are promising, and I am currently drafting the third manuscript of the BOULDERING project. This work already demonstrates interesting patterns, particularly in the relationship between target properties and ejection dynamics.
 
 ## Future work 
-The journey doesn’t end here. While I have transitioned to a job outside of academia, my passion for this project remains strong, and I plan to continue working on it. There is still so much potential to improve and expand the model. Here are the highlights of what I hope to implement in the future:
-- a
-- b
-- c
-- d
+The journey of this project doesn’t end here. Although I have transitioned to a role outside academia, my enthusiasm and commitment to the BOULDERING project remain strong. There is still immense potential to improve and expand the model, and I plan to continue exploring and contributing to this field. Looking ahead, here are some key areas I aim to address in the future:
+
+- Enhancing the Loss Function: I intend to modify the loss function to prioritize the detection of large boulders, which are currently under-detected due to their relatively low occurrence in the dataset.
+- Training a Semantic Segmentation Model: Using the same labeled boulder data, I aim to develop a semantic segmentation model to provide a more detailed and nuanced understanding of boulder characteristics.
+- Detecting Small Craters: A critical next step involves training an algorithm to automatically detect small craters around fresh impact craters. This will facilitate studies of spatial relationships between boulders and secondary craters and enhance our understanding of their mutual influence on cratering processes.
+- Expanding Training Data: Incorporating a broader range of boulder environments into the training dataset, such as boulders within impact craters or those associated with rockfalls, will improve the model’s versatility and accuracy across diverse scenarios.
 
 If you want to contribute do not hesitate in sending me an email at prieur.nils@gmail.com, so that we can collaborate together! Take care all of you!  
